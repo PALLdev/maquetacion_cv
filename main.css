@@ -163,6 +163,10 @@ ul {
   display: none;
 }
 
+[id] {
+  scroll-margin-top: 3.5ex;
+}
+
 @keyframes carousel-slide {
   0% {
     transform: translateX(0%);
